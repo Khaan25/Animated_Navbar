@@ -1,9 +1,9 @@
 // MAIN COLORS
-hsl(33, 100%, 50%);
-hsl(338, 90%, 62%);
-hsl(240, 90%, 61%);
-hsl(46, 83%, 48%);
-hsl(161, 64%, 63%);
+hsl(33, 100%, 50%)
+hsl(338, 90%, 62%)
+hsl(240, 90%, 61%)
+hsl(46, 83%, 48%)
+hsl(161, 64%, 63%)
 
 // BACKGROUND COLORS
 --> First background-color: hsl(33, 100%, 67%)
